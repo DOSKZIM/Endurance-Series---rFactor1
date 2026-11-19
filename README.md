@@ -10,7 +10,6 @@ OBS: any key change can be made on .ini
 
 ALL RIGHTS RESERVED
 
-
 FULL MOD DOWNLOAD: https://drive.google.com/file/d/1EB3P1Kvw1YmPufMVjSmEMPLYKyzaKN5u/view?usp=sharing
 
 ============================================================================
@@ -120,7 +119,6 @@ Dedicated aerodynamic packages are available for:
 - NLS — Nürburgring Nordschleife 
 
 - Le Mans — Circuit de la Sarthe
-
 
 
 
