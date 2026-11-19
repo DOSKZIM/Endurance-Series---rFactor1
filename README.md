@@ -6,23 +6,25 @@ Models By Rafael Beloto
 
 Physics By SekaiBreakes
 
-------------------------------------------------------------------------------------------------------------------------------------------
+==========================================================================================================================================
 
 LMU HUD + RADAR README – USER GUIDE & CONTROLS
 
-============================================================ PORTUGUÊS
-(PT-BR) ============================================================
+============================================================ PORTUGUÊS(PT-BR) ============================================================
 
 LMU HUD – CONTROLES
 
-CTRL + SHIFT + M — Abre o modo de edição do HUD. CTRL + SHIFT + H —
-Esconde o HUD. ENTER — Navega pelas opções do MFD. SHIFT + PAGE UP —
-Aumenta o tamanho do HUD. SHIFT + PAGE DOWN — Diminui o tamanho do HUD.
+CTRL + SHIFT + M — Abre o modo de edição do HUD. 
+CTRL + SHIFT + H — Esconde o HUD. 
+ENTER — Navega pelas opções do MFD. 
+SHIFT + PAGE UP — Aumenta o tamanho do HUD. 
+SHIFT + PAGE DOWN — Diminui o tamanho do HUD.
 
 RADAR – CONTROLES
 
-0 — Altera a posição do radar. Utilize o mouse para posicioná-lo. 9 —
-Ativa/desativa o fundo do radar. 8 — Altera o tamanho do radar.
+0 — Altera a posição do radar, utilize o mouse para posicioná-lo. 
+9 — Ativa/desativa o fundo do radar. 
+8 — Altera o tamanho do radar.
 
 INFORMAÇÕES ADICIONAIS
 
@@ -47,22 +49,29 @@ a critério de cada usuário.
 
 PACOTES AERODINÂMICOS (AERO PACKS)
 
-Estão disponíveis pacotes aerodinâmicos específicos para: - NLS —
-Nürburgring Nordschleife - Le Mans — Circuit de la Sarthe
+Estão disponíveis pacotes aerodinâmicos específicos para: 
+- NLS — Nürburgring Nordschleife 
+- Le Mans 
+— Circuit de la Sarthe
 
-============================================================ ENGLISH
-(EN) ============================================================
+
+
+
+============================================================ ENGLISH(EN) ============================================================
 
 LMU HUD – CONTROLS
 
-CTRL + SHIFT + M — Opens HUD editing mode. CTRL + SHIFT + H — Hides the
-HUD. ENTER — Navigates through the MFD options. SHIFT + PAGE UP —
-Increases HUD size. SHIFT + PAGE DOWN — Decreases HUD size.
+CTRL + SHIFT + M — Opens HUD editing mode. 
+CTRL + SHIFT + H — Hides the HUD. 
+ENTER — Navigates through the MFD options. 
+SHIFT + PAGE UP — Increases HUD size. 
+SHIFT + PAGE DOWN — Decreases HUD size.
 
 RADAR – CONTROLS
 
-0 — Changes the radar position. Use your mouse to move it. 9 — Toggles
-the radar background on/off. 8 — Adjusts radar size.
+0 — Changes the radar position, use your mouse to move it. 
+9 — Toggles the radar background on/off. 
+8 — Adjusts radar size.
 
 ADDITIONAL INFORMATION
 
@@ -86,23 +95,29 @@ user’s own discretion.
 
 AERODYNAMIC PACKAGES (AERO PACKS)
 
-Dedicated aerodynamic packages are available for: - NLS — Nürburgring
-Nordschleife - Le Mans — Circuit de la Sarthe
+Dedicated aerodynamic packages are available for: 
+- NLS — Nürburgring Nordschleife 
+- Le Mans 
+— Circuit de la Sarthe
 
-============================================================ ESPAÑOL
-(ES) ============================================================
+
+
+
+============================================================ ESPAÑOL(ES) ============================================================
 
 LMU HUD – CONTROLES
 
-CTRL + SHIFT + M — Abre el modo de edición del HUD. CTRL + SHIFT + H —
-Oculta el HUD. ENTER — Permite navegar por las opciones del MFD. SHIFT +
-PAGE UP — Aumenta el tamaño del HUD. SHIFT + PAGE DOWN — Disminuye el
-tamaño del HUD.
+CTRL + SHIFT + M — Abre el modo de edición del HUD. 
+CTRL + SHIFT + H — Oculta el HUD. 
+ENTER — Permite navegar por las opciones del MFD. 
+SHIFT + PAGE UP — Aumenta el tamaño del HUD. 
+SHIFT + PAGE DOWN — Disminuye el tamaño del HUD.
 
 RADAR – CONTROLES
 
-0 — Cambia la posición del radar. Utiliza el ratón para moverlo. 9 —
-Activa/desactiva el fondo del radar. 8 — Ajusta el tamaño del radar.
+0 — Cambia la posición del radar, utiliza el ratón para moverlo. 
+9 — Activa/desactiva el fondo del radar. 
+8 — Ajusta el tamaño del radar.
 
 INFORMACIÓN ADICIONAL
 
@@ -127,8 +142,15 @@ queda a criterio de cada usuario.
 
 PAQUETES AERODINÁMICOS (AERO PACKS)
 
-Hay disponibles paquetes aerodinámicos específicos para: - NLS —
-Nürburgring Nordschleife - Le Mans — Circuit de la Sarthe
+Hay disponibles paquetes aerodinámicos específicos para: 
+- NLS — Nürburgring Nordschleife 
+- Le Mans 
+— Circuit de la Sarthe
 
-Thank you for your support! Obrigado pelo apoio! ¡Gracias por vuestro
+
+==========================================================================================================================================
+
+Thank you for your support! 
+Obrigado pelo apoio! 
+¡Gracias por vuestro
 apoyo!
