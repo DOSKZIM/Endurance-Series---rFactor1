@@ -48,8 +48,6 @@ disponível durante a pilotagem.
 É recomendado solicitar uma parada nos boxes (PIT) para configurar as
 opções e os ajustes da sua parada.
 
-Utilize ENTER para navegar pelas opções disponíveis no MFD.
-
 FILOSOFIA DE SETUPS
 
 O jogo foi desenvolvido com a proposta de utilizar setups fixos,
@@ -102,8 +100,6 @@ available while driving.
 However, requesting a pit stop (PIT) is recommended when configuring
 your pit stop options and settings.
 
-Use ENTER to navigate through the available MFD options.
-
 SETUP PHILOSOPHY
 
 The game was designed around the use of fixed setups, aiming to provide
@@ -153,8 +149,6 @@ permanece disponible durante la conducción.
 
 Sin embargo, se recomienda solicitar una parada en boxes (PIT) para
 configurar las opciones y los ajustes de la parada.
-
-Utiliza ENTER para navegar por las opciones disponibles del MFD.
 
 FILOSOFÍA DE CONFIGURACIONES
 
