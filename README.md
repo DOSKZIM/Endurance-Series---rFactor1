@@ -59,9 +59,7 @@ Estão disponíveis pacotes aerodinâmicos específicos para:
 
 - NLS — Nürburgring Nordschleife 
 
-- Le Mans 
-
-— Circuit de la Sarthe
+- Le Mans — Circuit de la Sarthe
 
 
 
@@ -114,9 +112,7 @@ Dedicated aerodynamic packages are available for:
 
 - NLS — Nürburgring Nordschleife 
 
-- Le Mans 
-
-— Circuit de la Sarthe
+- Le Mans — Circuit de la Sarthe
 
 
 
@@ -170,9 +166,7 @@ Hay disponibles paquetes aerodinámicos específicos para:
 
 - NLS — Nürburgring Nordschleife 
 
-- Le Mans 
-
-— Circuit de la Sarthe
+- Le Mans — Circuit de la Sarthe
 
 
 ============================================================================
