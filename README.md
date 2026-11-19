@@ -172,6 +172,7 @@ Hay disponibles paquetes aerodinámicos específicos para:
 ============================================================================
 
 Thank you for your support! 
+
 Obrigado pelo apoio! 
-¡Gracias por vuestro
-apoyo!
+
+¡Gracias por vuestro apoyo!
