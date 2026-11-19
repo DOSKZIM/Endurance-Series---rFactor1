@@ -6,6 +6,9 @@ Models By Rafael Beloto
 
 Physics By SekaiBreakes
 
+
+FULL MOD DOWNLOAD: https://drive.google.com/file/d/1EB3P1Kvw1YmPufMVjSmEMPLYKyzaKN5u/view?usp=sharing
+
 ============================================================================
 
 LMU HUD + RADAR README – USER GUIDE & CONTROLS
