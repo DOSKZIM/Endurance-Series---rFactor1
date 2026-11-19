@@ -6,11 +6,11 @@ Models By Rafael Beloto
 
 Physics By SekaiBreakes
 
-================================================================================
+============================================================================
 
 LMU HUD + RADAR README – USER GUIDE & CONTROLS
 
-=== PORTUGUÊS(PT-BR) ============================================================
+=== PORTUGUÊS(PT-BR) ========================================================
 
 LMU HUD – CONTROLES
 
@@ -66,7 +66,7 @@ Estão disponíveis pacotes aerodinâmicos específicos para:
 
 
 
-=== ENGLISH(EN) ============================================================
+=== ENGLISH(EN) ========================================================
 
 LMU HUD – CONTROLS
 
@@ -121,7 +121,7 @@ Dedicated aerodynamic packages are available for:
 
 
 
-=== ESPAÑOL(ES) ============================================================
+=== ESPAÑOL(ES) =======================================================
 
 LMU HUD – CONTROLES
 
@@ -175,7 +175,7 @@ Hay disponibles paquetes aerodinámicos específicos para:
 — Circuit de la Sarthe
 
 
-================================================================================
+============================================================================
 
 Thank you for your support! 
 Obrigado pelo apoio! 
